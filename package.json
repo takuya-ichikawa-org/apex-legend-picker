@@ -1,5 +1,5 @@
 {
-  "name": "example-app",
+  "name": "apex-legend-picker",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
