@@ -1,0 +1,1 @@
+ref: https://www.ea.com/ja/games/apex-legends/apex-legends/characters-hub

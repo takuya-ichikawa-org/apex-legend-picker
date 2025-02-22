@@ -1,0 +1,1 @@
+ref: https://apexlegends.fandom.com/wiki/Weapon
